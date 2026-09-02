@@ -9,3 +9,7 @@
 ### Après le squash
 
 <img width="965" height="377" alt="Image" src="https://github.com/user-attachments/assets/92c0abc8-7387-466d-a80f-85187464152a" />
+
+### Capture d'écran conflit
+
+<img width="940" height="207" alt="Image" src="https://github.com/user-attachments/assets/ae3ac124-ef1a-4fa2-8e59-728d78b6c6ae" />
